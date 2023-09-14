@@ -1,0 +1,4 @@
+A) El tener un repositorio remototo sirve para tener un espacio seguro en el cual poder guardar el trabajo echo en un equipo tuyo o ajeno y/o llevar el trabajo a equipos nuevos.
+B) La diferencias entre git commit -m y git push es que con git commit -m guardas los cambios echos en el archivo seleccionado y dejarlo y con el push esos cambios que guardaste con commit los llevas a guardar al repositorio remoto que seleccionaste.
+C) Una issue es un asunto que puedes crear en un repositorio para la vista tuya y de quien este en ese repositorio.
+ Sirve para poder indicar algun problema, error, cambio, bug o arreglo sobre lo trebajado en el repositorio.
